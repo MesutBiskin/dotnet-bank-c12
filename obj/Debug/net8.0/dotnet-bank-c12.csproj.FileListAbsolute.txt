@@ -1,0 +1,15 @@
+/Users/mesutbiskin/dotnet-bank-c12/bin/Debug/net8.0/dotnet-bank-c12
+/Users/mesutbiskin/dotnet-bank-c12/bin/Debug/net8.0/dotnet-bank-c12.deps.json
+/Users/mesutbiskin/dotnet-bank-c12/bin/Debug/net8.0/dotnet-bank-c12.runtimeconfig.json
+/Users/mesutbiskin/dotnet-bank-c12/bin/Debug/net8.0/dotnet-bank-c12.dll
+/Users/mesutbiskin/dotnet-bank-c12/bin/Debug/net8.0/dotnet-bank-c12.pdb
+/Users/mesutbiskin/dotnet-bank-c12/obj/Debug/net8.0/dotnet-bank-c12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mesutbiskin/dotnet-bank-c12/obj/Debug/net8.0/dotnet-bank-c12.AssemblyInfoInputs.cache
+/Users/mesutbiskin/dotnet-bank-c12/obj/Debug/net8.0/dotnet-bank-c12.AssemblyInfo.cs
+/Users/mesutbiskin/dotnet-bank-c12/obj/Debug/net8.0/dotnet-bank-c12.csproj.CoreCompileInputs.cache
+/Users/mesutbiskin/dotnet-bank-c12/obj/Debug/net8.0/dotnet-bank-c12.sourcelink.json
+/Users/mesutbiskin/dotnet-bank-c12/obj/Debug/net8.0/dotnet-bank-c12.dll
+/Users/mesutbiskin/dotnet-bank-c12/obj/Debug/net8.0/refint/dotnet-bank-c12.dll
+/Users/mesutbiskin/dotnet-bank-c12/obj/Debug/net8.0/dotnet-bank-c12.pdb
+/Users/mesutbiskin/dotnet-bank-c12/obj/Debug/net8.0/dotnet-bank-c12.genruntimeconfig.cache
+/Users/mesutbiskin/dotnet-bank-c12/obj/Debug/net8.0/ref/dotnet-bank-c12.dll
